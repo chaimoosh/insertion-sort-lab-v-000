@@ -7,5 +7,5 @@ function findMinAndRemove(array){
 }
 
 function insertionSort(array){
-
+  findMinAndRemove(array)
 }
